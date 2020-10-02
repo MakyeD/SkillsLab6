@@ -34,7 +34,7 @@ We'd love for you to help improve our code!
 Miscellany
 --------------
 
-License: We choose this license because it is commercial for everyone's use. Also, with this license put into place it uses private use meaning that it is 
+License: We choose this license because it is commercial for everyone's use. Also, with this license put into place it has "private use" meaning that it is 
 secured adn protected from other third party users. ANother use is that it can be distributed anywhere and you want multiple people to be able to use the program that was put into place. Also, our system is small, so this is perfect since we are not a big project that we have to worry too much about. 
 
 Code-Of-Conduct : We used this code of conduct because it protects the rights of people and does not allow anyone to misuse the system or put any derogatory 
