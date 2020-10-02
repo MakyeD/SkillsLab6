@@ -30,3 +30,15 @@ We'd love for you to help improve our code!
 1. Once code is in whatever IDE you are using, feel free to edit, make changes, and debug.
 2. You can submmit your code to the repository by creating a new file and uploading your edited code.
 
+
+Miscellany
+--------------
+
+License: We choose this license because it is commercial for everyone's use. Also, with this license put into place it uses private use meaning that it is 
+secured adn protected from other third party users. ANother use is that it can be distributed anywhere and you want multiple people to be able to use the program that was put into place. Also, our system is small, so this is perfect since we are not a big project that we have to worry too much about. 
+
+Code-Of-Conduct : We used this code of conduct because it protects the rights of people and does not allow anyone to misuse the system or put any derogatory 
+words or phrases within the system. We want this program to be a safe place for people to use and we want everyone to be on the same page about how to use the
+system correctly and for the right reasons. Also, with the code of conduct we used people can directly contact us if there is a misuse in the system while they are
+using the system. 
+
